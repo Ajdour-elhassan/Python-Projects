@@ -1,0 +1,949 @@
+[
+    {
+        "label": "Menu",
+        "importPath": "menu",
+        "description": "menu",
+        "isExtraImport": true,
+        "detail": "menu",
+        "documentation": {}
+    },
+    {
+        "label": "CoffeeMaker",
+        "importPath": "coffee_maker",
+        "description": "coffee_maker",
+        "isExtraImport": true,
+        "detail": "coffee_maker",
+        "documentation": {}
+    },
+    {
+        "label": "MoneyMachine",
+        "importPath": "money_machine",
+        "description": "money_machine",
+        "isExtraImport": true,
+        "detail": "money_machine",
+        "documentation": {}
+    },
+    {
+        "label": "Question",
+        "importPath": "question_model",
+        "description": "question_model",
+        "isExtraImport": true,
+        "detail": "question_model",
+        "documentation": {}
+    },
+    {
+        "label": "question_data",
+        "importPath": "data",
+        "description": "data",
+        "isExtraImport": true,
+        "detail": "data",
+        "documentation": {}
+    },
+    {
+        "label": "question_data",
+        "importPath": "data",
+        "description": "data",
+        "isExtraImport": true,
+        "detail": "data",
+        "documentation": {}
+    },
+    {
+        "label": "QuizBrain",
+        "importPath": "quiz_brain",
+        "description": "quiz_brain",
+        "isExtraImport": true,
+        "detail": "quiz_brain",
+        "documentation": {}
+    },
+    {
+        "label": "Screen",
+        "importPath": "turtle",
+        "description": "turtle",
+        "isExtraImport": true,
+        "detail": "turtle",
+        "documentation": {}
+    },
+    {
+        "label": "Turtle",
+        "importPath": "turtle",
+        "description": "turtle",
+        "isExtraImport": true,
+        "detail": "turtle",
+        "documentation": {}
+    },
+    {
+        "label": "Screen",
+        "importPath": "turtle",
+        "description": "turtle",
+        "isExtraImport": true,
+        "detail": "turtle",
+        "documentation": {}
+    },
+    {
+        "label": "Turtle",
+        "importPath": "turtle",
+        "description": "turtle",
+        "isExtraImport": true,
+        "detail": "turtle",
+        "documentation": {}
+    },
+    {
+        "label": "Turtle",
+        "importPath": "turtle",
+        "description": "turtle",
+        "isExtraImport": true,
+        "detail": "turtle",
+        "documentation": {}
+    },
+    {
+        "label": "Screen",
+        "importPath": "turtle",
+        "description": "turtle",
+        "isExtraImport": true,
+        "detail": "turtle",
+        "documentation": {}
+    },
+    {
+        "label": "Turtle",
+        "importPath": "turtle",
+        "description": "turtle",
+        "isExtraImport": true,
+        "detail": "turtle",
+        "documentation": {}
+    },
+    {
+        "label": "Turtle",
+        "importPath": "turtle",
+        "description": "turtle",
+        "isExtraImport": true,
+        "detail": "turtle",
+        "documentation": {}
+    },
+    {
+        "label": "Screen",
+        "importPath": "turtle",
+        "description": "turtle",
+        "isExtraImport": true,
+        "detail": "turtle",
+        "documentation": {}
+    },
+    {
+        "label": "Turtle",
+        "importPath": "turtle",
+        "description": "turtle",
+        "isExtraImport": true,
+        "detail": "turtle",
+        "documentation": {}
+    },
+    {
+        "label": "Turtle",
+        "importPath": "turtle",
+        "description": "turtle",
+        "isExtraImport": true,
+        "detail": "turtle",
+        "documentation": {}
+    },
+    {
+        "label": "Screen",
+        "importPath": "turtle",
+        "description": "turtle",
+        "isExtraImport": true,
+        "detail": "turtle",
+        "documentation": {}
+    },
+    {
+        "label": "Turtle",
+        "importPath": "turtle",
+        "description": "turtle",
+        "isExtraImport": true,
+        "detail": "turtle",
+        "documentation": {}
+    },
+    {
+        "label": "Screen",
+        "importPath": "turtle",
+        "description": "turtle",
+        "isExtraImport": true,
+        "detail": "turtle",
+        "documentation": {}
+    },
+    {
+        "label": "Turtle",
+        "importPath": "turtle",
+        "description": "turtle",
+        "isExtraImport": true,
+        "detail": "turtle",
+        "documentation": {}
+    },
+    {
+        "label": "Turtle",
+        "importPath": "turtle",
+        "description": "turtle",
+        "isExtraImport": true,
+        "detail": "turtle",
+        "documentation": {}
+    },
+    {
+        "label": "Screen",
+        "importPath": "turtle",
+        "description": "turtle",
+        "isExtraImport": true,
+        "detail": "turtle",
+        "documentation": {}
+    },
+    {
+        "label": "Turtle",
+        "importPath": "turtle",
+        "description": "turtle",
+        "isExtraImport": true,
+        "detail": "turtle",
+        "documentation": {}
+    },
+    {
+        "label": "Turtle",
+        "importPath": "turtle",
+        "description": "turtle",
+        "isExtraImport": true,
+        "detail": "turtle",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "Snake",
+        "importPath": "snake",
+        "description": "snake",
+        "isExtraImport": true,
+        "detail": "snake",
+        "documentation": {}
+    },
+    {
+        "label": "Snake",
+        "importPath": "snake",
+        "description": "snake",
+        "isExtraImport": true,
+        "detail": "snake",
+        "documentation": {}
+    },
+    {
+        "label": "Food",
+        "importPath": "food",
+        "description": "food",
+        "isExtraImport": true,
+        "detail": "food",
+        "documentation": {}
+    },
+    {
+        "label": "Food",
+        "importPath": "food",
+        "description": "food",
+        "isExtraImport": true,
+        "detail": "food",
+        "documentation": {}
+    },
+    {
+        "label": "Scoreboard",
+        "importPath": "scoreboard",
+        "description": "scoreboard",
+        "isExtraImport": true,
+        "detail": "scoreboard",
+        "documentation": {}
+    },
+    {
+        "label": "Scoreboard",
+        "importPath": "scoreboard",
+        "description": "scoreboard",
+        "isExtraImport": true,
+        "detail": "scoreboard",
+        "documentation": {}
+    },
+    {
+        "label": "Paddle",
+        "importPath": "paddle",
+        "description": "paddle",
+        "isExtraImport": true,
+        "detail": "paddle",
+        "documentation": {}
+    },
+    {
+        "label": "Ball",
+        "importPath": "ball",
+        "description": "ball",
+        "isExtraImport": true,
+        "detail": "ball",
+        "documentation": {}
+    },
+    {
+        "label": "is_resource_sufficient",
+        "kind": 2,
+        "importPath": "17-Coffee_Machine.Coffee_machine",
+        "description": "17-Coffee_Machine.Coffee_machine",
+        "peekOfCode": "def is_resource_sufficient(order_ingredients):\n    \"\"\"Returns True when order can be made, False if ingredients are insufficient.\"\"\"\n    for item in order_ingredients:\n        if order_ingredients[item] > resources[item]:\n            print(f\"​Sorry there is not enough {item}.\")\n            return False\n    return True\ndef process_coins():\n    \"\"\"Returns the total calculated from coins inserted.\"\"\"\n    print(\"Please insert coins.\")",
+        "detail": "17-Coffee_Machine.Coffee_machine",
+        "documentation": {}
+    },
+    {
+        "label": "process_coins",
+        "kind": 2,
+        "importPath": "17-Coffee_Machine.Coffee_machine",
+        "description": "17-Coffee_Machine.Coffee_machine",
+        "peekOfCode": "def process_coins():\n    \"\"\"Returns the total calculated from coins inserted.\"\"\"\n    print(\"Please insert coins.\")\n    total = int(input(\"how many quarters?: \")) * 0.25\n    total += int(input(\"how many dimes?: \")) * 0.1\n    total += int(input(\"how many nickles?: \")) * 0.05\n    total += int(input(\"how many pennies?: \")) * 0.01\n    return total\ndef is_transaction_successful(money_received, drink_cost):\n    \"\"\"Return True when the payment is accepted, or False if money is insufficient.\"\"\"",
+        "detail": "17-Coffee_Machine.Coffee_machine",
+        "documentation": {}
+    },
+    {
+        "label": "is_transaction_successful",
+        "kind": 2,
+        "importPath": "17-Coffee_Machine.Coffee_machine",
+        "description": "17-Coffee_Machine.Coffee_machine",
+        "peekOfCode": "def is_transaction_successful(money_received, drink_cost):\n    \"\"\"Return True when the payment is accepted, or False if money is insufficient.\"\"\"\n    if money_received >= drink_cost:\n        change = round(money_received - drink_cost, 2)\n        print(f\"Here is ${change} in change.\")\n        global profit\n        profit += drink_cost\n        return True\n    else:\n        print(\"Sorry that's not enough money. Money refunded.\")",
+        "detail": "17-Coffee_Machine.Coffee_machine",
+        "documentation": {}
+    },
+    {
+        "label": "make_coffee",
+        "kind": 2,
+        "importPath": "17-Coffee_Machine.Coffee_machine",
+        "description": "17-Coffee_Machine.Coffee_machine",
+        "peekOfCode": "def make_coffee(drink_name, order_ingredients):\n    \"\"\"Deduct the required ingredients from the resources.\"\"\"\n    for item in order_ingredients:\n        resources[item] -= order_ingredients[item]\n    print(f\"Here is your {drink_name} ☕️. Enjoy!\")\nis_on = True\nwhile is_on:\n    choice = input(\"​What would you like? (espresso/latte/cappuccino): \")\n    if choice == \"off\":\n        is_on = False",
+        "detail": "17-Coffee_Machine.Coffee_machine",
+        "documentation": {}
+    },
+    {
+        "label": "MENU",
+        "kind": 5,
+        "importPath": "17-Coffee_Machine.Coffee_machine",
+        "description": "17-Coffee_Machine.Coffee_machine",
+        "peekOfCode": "MENU = {\n    \"espresso\": {\n        \"ingredients\": {\n            \"water\": 50,\n            \"coffee\": 18,\n        },\n        \"cost\": 1.5,\n    },\n    \"latte\": {\n        \"ingredients\": {",
+        "detail": "17-Coffee_Machine.Coffee_machine",
+        "documentation": {}
+    },
+    {
+        "label": "profit",
+        "kind": 5,
+        "importPath": "17-Coffee_Machine.Coffee_machine",
+        "description": "17-Coffee_Machine.Coffee_machine",
+        "peekOfCode": "profit = 0\nresources = {\n    \"water\": 300,\n    \"milk\": 200,\n    \"coffee\": 100,\n}\ndef is_resource_sufficient(order_ingredients):\n    \"\"\"Returns True when order can be made, False if ingredients are insufficient.\"\"\"\n    for item in order_ingredients:\n        if order_ingredients[item] > resources[item]:",
+        "detail": "17-Coffee_Machine.Coffee_machine",
+        "documentation": {}
+    },
+    {
+        "label": "resources",
+        "kind": 5,
+        "importPath": "17-Coffee_Machine.Coffee_machine",
+        "description": "17-Coffee_Machine.Coffee_machine",
+        "peekOfCode": "resources = {\n    \"water\": 300,\n    \"milk\": 200,\n    \"coffee\": 100,\n}\ndef is_resource_sufficient(order_ingredients):\n    \"\"\"Returns True when order can be made, False if ingredients are insufficient.\"\"\"\n    for item in order_ingredients:\n        if order_ingredients[item] > resources[item]:\n            print(f\"​Sorry there is not enough {item}.\")",
+        "detail": "17-Coffee_Machine.Coffee_machine",
+        "documentation": {}
+    },
+    {
+        "label": "is_on",
+        "kind": 5,
+        "importPath": "17-Coffee_Machine.Coffee_machine",
+        "description": "17-Coffee_Machine.Coffee_machine",
+        "peekOfCode": "is_on = True\nwhile is_on:\n    choice = input(\"​What would you like? (espresso/latte/cappuccino): \")\n    if choice == \"off\":\n        is_on = False\n    elif choice == \"report\":\n        print(f\"Water: {resources['water']}ml\")\n        print(f\"Milk: {resources['milk']}ml\")\n        print(f\"Coffee: {resources['coffee']}g\")\n        print(f\"Money: ${profit}\")",
+        "detail": "17-Coffee_Machine.Coffee_machine",
+        "documentation": {}
+    },
+    {
+        "label": "CoffeeMaker",
+        "kind": 6,
+        "importPath": "18-Coffee_Machine_OPP.coffee_maker",
+        "description": "18-Coffee_Machine_OPP.coffee_maker",
+        "peekOfCode": "class CoffeeMaker:\n    \"\"\"Models the machine that makes the coffee\"\"\"\n    def __init__(self):\n        self.resources = {\n            \"water\": 300,\n            \"milk\": 200,\n            \"coffee\": 100,\n        }\n    def report(self):\n        \"\"\"Prints a report of all resources.\"\"\"",
+        "detail": "18-Coffee_Machine_OPP.coffee_maker",
+        "documentation": {}
+    },
+    {
+        "label": "money_machine",
+        "kind": 5,
+        "importPath": "18-Coffee_Machine_OPP.main",
+        "description": "18-Coffee_Machine_OPP.main",
+        "peekOfCode": "money_machine = MoneyMachine()\ncoffee_maker = CoffeeMaker()\nmenu = Menu()\nis_on = True\nwhile is_on:\n    options = menu.get_items()\n    choice = input(f\"What would you like? ({options}): \")\n    if choice == \"off\":\n        is_on = False\n    elif choice == \"report\":",
+        "detail": "18-Coffee_Machine_OPP.main",
+        "documentation": {}
+    },
+    {
+        "label": "coffee_maker",
+        "kind": 5,
+        "importPath": "18-Coffee_Machine_OPP.main",
+        "description": "18-Coffee_Machine_OPP.main",
+        "peekOfCode": "coffee_maker = CoffeeMaker()\nmenu = Menu()\nis_on = True\nwhile is_on:\n    options = menu.get_items()\n    choice = input(f\"What would you like? ({options}): \")\n    if choice == \"off\":\n        is_on = False\n    elif choice == \"report\":\n        coffee_maker.report()",
+        "detail": "18-Coffee_Machine_OPP.main",
+        "documentation": {}
+    },
+    {
+        "label": "menu",
+        "kind": 5,
+        "importPath": "18-Coffee_Machine_OPP.main",
+        "description": "18-Coffee_Machine_OPP.main",
+        "peekOfCode": "menu = Menu()\nis_on = True\nwhile is_on:\n    options = menu.get_items()\n    choice = input(f\"What would you like? ({options}): \")\n    if choice == \"off\":\n        is_on = False\n    elif choice == \"report\":\n        coffee_maker.report()\n        money_machine.report()",
+        "detail": "18-Coffee_Machine_OPP.main",
+        "documentation": {}
+    },
+    {
+        "label": "is_on",
+        "kind": 5,
+        "importPath": "18-Coffee_Machine_OPP.main",
+        "description": "18-Coffee_Machine_OPP.main",
+        "peekOfCode": "is_on = True\nwhile is_on:\n    options = menu.get_items()\n    choice = input(f\"What would you like? ({options}): \")\n    if choice == \"off\":\n        is_on = False\n    elif choice == \"report\":\n        coffee_maker.report()\n        money_machine.report()\n    else:",
+        "detail": "18-Coffee_Machine_OPP.main",
+        "documentation": {}
+    },
+    {
+        "label": "MenuItem",
+        "kind": 6,
+        "importPath": "18-Coffee_Machine_OPP.menu",
+        "description": "18-Coffee_Machine_OPP.menu",
+        "peekOfCode": "class MenuItem:\n    \"\"\"Models each Menu Item.\"\"\"\n    def __init__(self, name, water, milk, coffee, cost):\n        self.name = name\n        self.cost = cost\n        self.ingredients = {\n            \"water\": water,\n            \"milk\": milk,\n            \"coffee\": coffee\n        }",
+        "detail": "18-Coffee_Machine_OPP.menu",
+        "documentation": {}
+    },
+    {
+        "label": "Menu",
+        "kind": 6,
+        "importPath": "18-Coffee_Machine_OPP.menu",
+        "description": "18-Coffee_Machine_OPP.menu",
+        "peekOfCode": "class Menu:\n    \"\"\"Models the Menu with drinks.\"\"\"\n    def __init__(self):\n        self.menu = [\n            MenuItem(name=\"latte\", water=200, milk=150, coffee=24, cost=2.5),\n            MenuItem(name=\"espresso\", water=50, milk=0, coffee=18, cost=1.5),\n            MenuItem(name=\"cappuccino\", water=250, milk=50, coffee=24, cost=3),\n        ]\n    def get_items(self):\n        \"\"\"Returns all the names of the available menu items\"\"\"",
+        "detail": "18-Coffee_Machine_OPP.menu",
+        "documentation": {}
+    },
+    {
+        "label": "MoneyMachine",
+        "kind": 6,
+        "importPath": "18-Coffee_Machine_OPP.money_machine",
+        "description": "18-Coffee_Machine_OPP.money_machine",
+        "peekOfCode": "class MoneyMachine:\n    CURRENCY = \"$\"\n    COIN_VALUES = {\n        \"quarters\": 0.25,\n        \"dimes\": 0.10,\n        \"nickles\": 0.05,\n        \"pennies\": 0.01\n    }\n    def __init__(self):\n        self.profit = 0",
+        "detail": "18-Coffee_Machine_OPP.money_machine",
+        "documentation": {}
+    },
+    {
+        "label": "question_data",
+        "kind": 5,
+        "importPath": "19-Quiz_App.data",
+        "description": "19-Quiz_App.data",
+        "peekOfCode": "question_data = [\n{\"text\": \"A slug's blood is green.\", \"answer\": \"True\"},\n{\"text\": \"The loudest animal is the African Elephant.\", \"answer\": \"False\"},\n{\"text\": \"Approximately one quarter of human bones are in the feet.\", \"answer\": \"True\"},\n{\"text\": \"The total surface area of a human lungs is the size of a football pitch.\", \"answer\": \"True\"},\n{\"text\": \"In West Virginia, USA, if you accidentally hit an animal with your car, you are free to take it home to eat.\", \"answer\": \"True\"},\n{\"text\": \"In London, UK, if you happen to die in the House of Parliament, you are entitled to a state funeral.\", \"answer\": \"False\"},\n{\"text\": \"It is illegal to pee in the Ocean in Portugal.\", \"answer\": \"True\"},\n{\"text\": \"You can lead a cow down stairs but not up stairs.\", \"answer\": \"False\"},\n{\"text\": \"Google was originally called 'Backrub'.\", \"answer\": \"True\"},",
+        "detail": "19-Quiz_App.data",
+        "documentation": {}
+    },
+    {
+        "label": "question_bank",
+        "kind": 5,
+        "importPath": "19-Quiz_App.main",
+        "description": "19-Quiz_App.main",
+        "peekOfCode": "question_bank = []\nfor question in question_data:\n    question_text = question[\"text\"]\n    question_answer = question[\"answer\"]\n    new_question = Question(question_text, question_answer)\n    question_bank.append(new_question)\nquiz = QuizBrain(question_bank)\nwhile quiz.still_has_questions():\n    quiz.next_question()\nprint(\"You've completed the quiz\")",
+        "detail": "19-Quiz_App.main",
+        "documentation": {}
+    },
+    {
+        "label": "quiz",
+        "kind": 5,
+        "importPath": "19-Quiz_App.main",
+        "description": "19-Quiz_App.main",
+        "peekOfCode": "quiz = QuizBrain(question_bank)\nwhile quiz.still_has_questions():\n    quiz.next_question()\nprint(\"You've completed the quiz\")\nprint(f\"Your final score was: {quiz.score}/{quiz.question_number}\")",
+        "detail": "19-Quiz_App.main",
+        "documentation": {}
+    },
+    {
+        "label": "Question",
+        "kind": 6,
+        "importPath": "19-Quiz_App.question_model",
+        "description": "19-Quiz_App.question_model",
+        "peekOfCode": "class Question:\n    #Attribute\n    def __init__(self, q_text, q_answer):\n        self.text = q_text\n        self.answer = q_answer",
+        "detail": "19-Quiz_App.question_model",
+        "documentation": {}
+    },
+    {
+        "label": "QuizBrain",
+        "kind": 6,
+        "importPath": "19-Quiz_App.quiz_brain",
+        "description": "19-Quiz_App.quiz_brain",
+        "peekOfCode": "class QuizBrain:\n    # Attribute\n    def __init__(self, q_list):\n        self.question_number = 0\n        self.score = 0\n        self.question_list = q_list\n    # Method\n    def still_has_questions(self):\n        return self.question_number < len(self.question_list)\n    # Method",
+        "detail": "19-Quiz_App.quiz_brain",
+        "documentation": {}
+    },
+    {
+        "label": "move_forward",
+        "kind": 2,
+        "importPath": "20-Higher_Instance_Function.turtle_concepts",
+        "description": "20-Higher_Instance_Function.turtle_concepts",
+        "peekOfCode": "def move_forward():\n    tim.forward(10)\ndef move_backward():\n    tim.backward(10)\ndef turn_left() :\n    tim.left(45)\ndef turn_right() :\n    tim.right(45)\ndef clear() :\n    tim.clear()",
+        "detail": "20-Higher_Instance_Function.turtle_concepts",
+        "documentation": {}
+    },
+    {
+        "label": "move_backward",
+        "kind": 2,
+        "importPath": "20-Higher_Instance_Function.turtle_concepts",
+        "description": "20-Higher_Instance_Function.turtle_concepts",
+        "peekOfCode": "def move_backward():\n    tim.backward(10)\ndef turn_left() :\n    tim.left(45)\ndef turn_right() :\n    tim.right(45)\ndef clear() :\n    tim.clear()\n    tim.penup()\n    tim.home()",
+        "detail": "20-Higher_Instance_Function.turtle_concepts",
+        "documentation": {}
+    },
+    {
+        "label": "turn_left",
+        "kind": 2,
+        "importPath": "20-Higher_Instance_Function.turtle_concepts",
+        "description": "20-Higher_Instance_Function.turtle_concepts",
+        "peekOfCode": "def turn_left() :\n    tim.left(45)\ndef turn_right() :\n    tim.right(45)\ndef clear() :\n    tim.clear()\n    tim.penup()\n    tim.home()\n    tim.pendown()\nscreen.listen()",
+        "detail": "20-Higher_Instance_Function.turtle_concepts",
+        "documentation": {}
+    },
+    {
+        "label": "turn_right",
+        "kind": 2,
+        "importPath": "20-Higher_Instance_Function.turtle_concepts",
+        "description": "20-Higher_Instance_Function.turtle_concepts",
+        "peekOfCode": "def turn_right() :\n    tim.right(45)\ndef clear() :\n    tim.clear()\n    tim.penup()\n    tim.home()\n    tim.pendown()\nscreen.listen()\n# screen.onkey(key=\"space\" , fun=move_forward)\nscreen.onkey(move_forward, 'space')",
+        "detail": "20-Higher_Instance_Function.turtle_concepts",
+        "documentation": {}
+    },
+    {
+        "label": "clear",
+        "kind": 2,
+        "importPath": "20-Higher_Instance_Function.turtle_concepts",
+        "description": "20-Higher_Instance_Function.turtle_concepts",
+        "peekOfCode": "def clear() :\n    tim.clear()\n    tim.penup()\n    tim.home()\n    tim.pendown()\nscreen.listen()\n# screen.onkey(key=\"space\" , fun=move_forward)\nscreen.onkey(move_forward, 'space')\nscreen.onkey(move_backward , \"b\")\nscreen.onkey(turn_left, 'r')",
+        "detail": "20-Higher_Instance_Function.turtle_concepts",
+        "documentation": {}
+    },
+    {
+        "label": "tim",
+        "kind": 5,
+        "importPath": "20-Higher_Instance_Function.turtle_concepts",
+        "description": "20-Higher_Instance_Function.turtle_concepts",
+        "peekOfCode": "tim = Turtle()\nscreen = Screen()\ndef move_forward():\n    tim.forward(10)\ndef move_backward():\n    tim.backward(10)\ndef turn_left() :\n    tim.left(45)\ndef turn_right() :\n    tim.right(45)",
+        "detail": "20-Higher_Instance_Function.turtle_concepts",
+        "documentation": {}
+    },
+    {
+        "label": "screen",
+        "kind": 5,
+        "importPath": "20-Higher_Instance_Function.turtle_concepts",
+        "description": "20-Higher_Instance_Function.turtle_concepts",
+        "peekOfCode": "screen = Screen()\ndef move_forward():\n    tim.forward(10)\ndef move_backward():\n    tim.backward(10)\ndef turn_left() :\n    tim.left(45)\ndef turn_right() :\n    tim.right(45)\ndef clear() :",
+        "detail": "20-Higher_Instance_Function.turtle_concepts",
+        "documentation": {}
+    },
+    {
+        "label": "is_race_on",
+        "kind": 5,
+        "importPath": "20-Higher_Instance_Function.Turtle_Game",
+        "description": "20-Higher_Instance_Function.Turtle_Game",
+        "peekOfCode": "is_race_on = False\nscreen = Screen()\nscreen.setup(width=500, height=400)\nscreen.listen()\nuser_guess = screen.textinput(title=\"Make your bet ?\" , prompt=\"whicj turtle would win a race ? choose a color!\")\nprint(user_guess)\ncolors = [\"red\" , \"orange\" , \"yellow\" , \"blue\" , \"green\" , \"purple\" ]\ny_position = [0, 30, -30, 60, -60, 90, -90]\nall_turtles = []\nfor turtle_index  in range(0, 6) :",
+        "detail": "20-Higher_Instance_Function.Turtle_Game",
+        "documentation": {}
+    },
+    {
+        "label": "screen",
+        "kind": 5,
+        "importPath": "20-Higher_Instance_Function.Turtle_Game",
+        "description": "20-Higher_Instance_Function.Turtle_Game",
+        "peekOfCode": "screen = Screen()\nscreen.setup(width=500, height=400)\nscreen.listen()\nuser_guess = screen.textinput(title=\"Make your bet ?\" , prompt=\"whicj turtle would win a race ? choose a color!\")\nprint(user_guess)\ncolors = [\"red\" , \"orange\" , \"yellow\" , \"blue\" , \"green\" , \"purple\" ]\ny_position = [0, 30, -30, 60, -60, 90, -90]\nall_turtles = []\nfor turtle_index  in range(0, 6) :\n    tim = Turtle(shape=\"turtle\") ",
+        "detail": "20-Higher_Instance_Function.Turtle_Game",
+        "documentation": {}
+    },
+    {
+        "label": "user_guess",
+        "kind": 5,
+        "importPath": "20-Higher_Instance_Function.Turtle_Game",
+        "description": "20-Higher_Instance_Function.Turtle_Game",
+        "peekOfCode": "user_guess = screen.textinput(title=\"Make your bet ?\" , prompt=\"whicj turtle would win a race ? choose a color!\")\nprint(user_guess)\ncolors = [\"red\" , \"orange\" , \"yellow\" , \"blue\" , \"green\" , \"purple\" ]\ny_position = [0, 30, -30, 60, -60, 90, -90]\nall_turtles = []\nfor turtle_index  in range(0, 6) :\n    tim = Turtle(shape=\"turtle\") \n    tim.penup()\n    tim.color(colors[turtle_index])\n    tim.goto(x=-240, y=y_position[turtle_index])",
+        "detail": "20-Higher_Instance_Function.Turtle_Game",
+        "documentation": {}
+    },
+    {
+        "label": "colors",
+        "kind": 5,
+        "importPath": "20-Higher_Instance_Function.Turtle_Game",
+        "description": "20-Higher_Instance_Function.Turtle_Game",
+        "peekOfCode": "colors = [\"red\" , \"orange\" , \"yellow\" , \"blue\" , \"green\" , \"purple\" ]\ny_position = [0, 30, -30, 60, -60, 90, -90]\nall_turtles = []\nfor turtle_index  in range(0, 6) :\n    tim = Turtle(shape=\"turtle\") \n    tim.penup()\n    tim.color(colors[turtle_index])\n    tim.goto(x=-240, y=y_position[turtle_index])\n    all_turtles.append(tim)\nif user_guess :",
+        "detail": "20-Higher_Instance_Function.Turtle_Game",
+        "documentation": {}
+    },
+    {
+        "label": "y_position",
+        "kind": 5,
+        "importPath": "20-Higher_Instance_Function.Turtle_Game",
+        "description": "20-Higher_Instance_Function.Turtle_Game",
+        "peekOfCode": "y_position = [0, 30, -30, 60, -60, 90, -90]\nall_turtles = []\nfor turtle_index  in range(0, 6) :\n    tim = Turtle(shape=\"turtle\") \n    tim.penup()\n    tim.color(colors[turtle_index])\n    tim.goto(x=-240, y=y_position[turtle_index])\n    all_turtles.append(tim)\nif user_guess :\n    is_race_on = True",
+        "detail": "20-Higher_Instance_Function.Turtle_Game",
+        "documentation": {}
+    },
+    {
+        "label": "all_turtles",
+        "kind": 5,
+        "importPath": "20-Higher_Instance_Function.Turtle_Game",
+        "description": "20-Higher_Instance_Function.Turtle_Game",
+        "peekOfCode": "all_turtles = []\nfor turtle_index  in range(0, 6) :\n    tim = Turtle(shape=\"turtle\") \n    tim.penup()\n    tim.color(colors[turtle_index])\n    tim.goto(x=-240, y=y_position[turtle_index])\n    all_turtles.append(tim)\nif user_guess :\n    is_race_on = True\nwhile is_race_on : ",
+        "detail": "20-Higher_Instance_Function.Turtle_Game",
+        "documentation": {}
+    },
+    {
+        "label": "Food",
+        "kind": 6,
+        "importPath": "21-Snake_Game.food",
+        "description": "21-Snake_Game.food",
+        "peekOfCode": "class Food(Turtle) :\n    def __init__(self) :\n        super().__init__()\n        self.shape(\"circle\")\n        self.penup()\n        self.shapesize(stretch_len=0.5, stretch_wid=0.5)\n        self.color(\"blue\")\n        self.speed(\"fastest\")\n        self.refresh()\n    def refresh(self) :",
+        "detail": "21-Snake_Game.food",
+        "documentation": {}
+    },
+    {
+        "label": "screen",
+        "kind": 5,
+        "importPath": "21-Snake_Game.main",
+        "description": "21-Snake_Game.main",
+        "peekOfCode": "screen = Screen()\nscreen.setup(width=600, height=600)\nscreen.bgcolor(\"black\")\nscreen.title(\"Snake Game\")\nscreen.tracer(0)\n#Create_Snake_form\nsnake = Snake()\nfood = Food()\nscoreboard = Scoreboard()\n#Control_the_Snake",
+        "detail": "21-Snake_Game.main",
+        "documentation": {}
+    },
+    {
+        "label": "snake",
+        "kind": 5,
+        "importPath": "21-Snake_Game.main",
+        "description": "21-Snake_Game.main",
+        "peekOfCode": "snake = Snake()\nfood = Food()\nscoreboard = Scoreboard()\n#Control_the_Snake\nscreen.listen()\nscreen.onkey(snake.up, \"Up\")\nscreen.onkey(snake.down, \"Down\")\nscreen.onkey(snake.left, \"Left\")\nscreen.onkey(snake.right, \"Right\")\ngame_on = True ",
+        "detail": "21-Snake_Game.main",
+        "documentation": {}
+    },
+    {
+        "label": "food",
+        "kind": 5,
+        "importPath": "21-Snake_Game.main",
+        "description": "21-Snake_Game.main",
+        "peekOfCode": "food = Food()\nscoreboard = Scoreboard()\n#Control_the_Snake\nscreen.listen()\nscreen.onkey(snake.up, \"Up\")\nscreen.onkey(snake.down, \"Down\")\nscreen.onkey(snake.left, \"Left\")\nscreen.onkey(snake.right, \"Right\")\ngame_on = True \nwhile game_on :  ",
+        "detail": "21-Snake_Game.main",
+        "documentation": {}
+    },
+    {
+        "label": "scoreboard",
+        "kind": 5,
+        "importPath": "21-Snake_Game.main",
+        "description": "21-Snake_Game.main",
+        "peekOfCode": "scoreboard = Scoreboard()\n#Control_the_Snake\nscreen.listen()\nscreen.onkey(snake.up, \"Up\")\nscreen.onkey(snake.down, \"Down\")\nscreen.onkey(snake.left, \"Left\")\nscreen.onkey(snake.right, \"Right\")\ngame_on = True \nwhile game_on :  \n    screen.update()",
+        "detail": "21-Snake_Game.main",
+        "documentation": {}
+    },
+    {
+        "label": "game_on",
+        "kind": 5,
+        "importPath": "21-Snake_Game.main",
+        "description": "21-Snake_Game.main",
+        "peekOfCode": "game_on = True \nwhile game_on :  \n    screen.update()\n    time.sleep(0.1)\n    snake.move()\n    # detect collusion with food\n    if snake.head.distance(food) < 15 :\n       food.refresh()\n       snake.extend()\n       # scoring ",
+        "detail": "21-Snake_Game.main",
+        "documentation": {}
+    },
+    {
+        "label": "Scoreboard",
+        "kind": 6,
+        "importPath": "21-Snake_Game.scoreboard",
+        "description": "21-Snake_Game.scoreboard",
+        "peekOfCode": "class Scoreboard(Turtle) :\n    def __init__(self) :\n        super().__init__()\n        self.score = 0 \n        self.color(\"white\")\n        self.penup()\n        self.goto(0, 270)\n        self.hideturtle()\n        self.update_scoreboard()\n    def update_scoreboard(self) :",
+        "detail": "21-Snake_Game.scoreboard",
+        "documentation": {}
+    },
+    {
+        "label": "ALIGNMENT",
+        "kind": 5,
+        "importPath": "21-Snake_Game.scoreboard",
+        "description": "21-Snake_Game.scoreboard",
+        "peekOfCode": "ALIGNMENT = \"center\"\nFONT = (\"Courier\", 24, \"normal\")\nclass Scoreboard(Turtle) :\n    def __init__(self) :\n        super().__init__()\n        self.score = 0 \n        self.color(\"white\")\n        self.penup()\n        self.goto(0, 270)\n        self.hideturtle()",
+        "detail": "21-Snake_Game.scoreboard",
+        "documentation": {}
+    },
+    {
+        "label": "FONT",
+        "kind": 5,
+        "importPath": "21-Snake_Game.scoreboard",
+        "description": "21-Snake_Game.scoreboard",
+        "peekOfCode": "FONT = (\"Courier\", 24, \"normal\")\nclass Scoreboard(Turtle) :\n    def __init__(self) :\n        super().__init__()\n        self.score = 0 \n        self.color(\"white\")\n        self.penup()\n        self.goto(0, 270)\n        self.hideturtle()\n        self.update_scoreboard()",
+        "detail": "21-Snake_Game.scoreboard",
+        "documentation": {}
+    },
+    {
+        "label": "Snak",
+        "kind": 6,
+        "importPath": "21-Snake_Game.snake",
+        "description": "21-Snake_Game.snake",
+        "peekOfCode": "class Snake :\n    #Attributes\n    def __init__(self) :\n        self.segments = []\n        self.snake_form()\n        self.head = self.segments[0]\n    #Method Create_snake\n    def snake_form(self)  : \n        for position in STARTING_POSITION :\n            self.add_segment(position)",
+        "detail": "21-Snake_Game.snake",
+        "documentation": {}
+    },
+    {
+        "label": "STARTING_POSITION",
+        "kind": 5,
+        "importPath": "21-Snake_Game.snake",
+        "description": "21-Snake_Game.snake",
+        "peekOfCode": "STARTING_POSITION = [(0,0), (-20,0),(-40,0)]\nMOVE_DISTANCE = 20\nUP = 90 \nDOWN = 270\nLEFT = 180 \nRIGHT  = 0\nclass Snake :\n    #Attributes\n    def __init__(self) :\n        self.segments = []",
+        "detail": "21-Snake_Game.snake",
+        "documentation": {}
+    },
+    {
+        "label": "MOVE_DISTANCE",
+        "kind": 5,
+        "importPath": "21-Snake_Game.snake",
+        "description": "21-Snake_Game.snake",
+        "peekOfCode": "MOVE_DISTANCE = 20\nUP = 90 \nDOWN = 270\nLEFT = 180 \nRIGHT  = 0\nclass Snake :\n    #Attributes\n    def __init__(self) :\n        self.segments = []\n        self.snake_form()",
+        "detail": "21-Snake_Game.snake",
+        "documentation": {}
+    },
+    {
+        "label": "UP",
+        "kind": 5,
+        "importPath": "21-Snake_Game.snake",
+        "description": "21-Snake_Game.snake",
+        "peekOfCode": "UP = 90 \nDOWN = 270\nLEFT = 180 \nRIGHT  = 0\nclass Snake :\n    #Attributes\n    def __init__(self) :\n        self.segments = []\n        self.snake_form()\n        self.head = self.segments[0]",
+        "detail": "21-Snake_Game.snake",
+        "documentation": {}
+    },
+    {
+        "label": "DOWN",
+        "kind": 5,
+        "importPath": "21-Snake_Game.snake",
+        "description": "21-Snake_Game.snake",
+        "peekOfCode": "DOWN = 270\nLEFT = 180 \nRIGHT  = 0\nclass Snake :\n    #Attributes\n    def __init__(self) :\n        self.segments = []\n        self.snake_form()\n        self.head = self.segments[0]\n    #Method Create_snake",
+        "detail": "21-Snake_Game.snake",
+        "documentation": {}
+    },
+    {
+        "label": "LEFT",
+        "kind": 5,
+        "importPath": "21-Snake_Game.snake",
+        "description": "21-Snake_Game.snake",
+        "peekOfCode": "LEFT = 180 \nRIGHT  = 0\nclass Snake :\n    #Attributes\n    def __init__(self) :\n        self.segments = []\n        self.snake_form()\n        self.head = self.segments[0]\n    #Method Create_snake\n    def snake_form(self)  : ",
+        "detail": "21-Snake_Game.snake",
+        "documentation": {}
+    },
+    {
+        "label": "Ball",
+        "kind": 6,
+        "importPath": "22-Pong Game.ball",
+        "description": "22-Pong Game.ball",
+        "peekOfCode": "class Ball(Turtle):\n    def __init__(self) :\n        super().__init__()\n        self.color('white')\n        self.shape('circle') \n        self.penup()\n        self.x_move = 10 \n        self.y_move = 10\n    def move(self) :\n        new_x =  self.xcor() + self.x_move",
+        "detail": "22-Pong Game.ball",
+        "documentation": {}
+    },
+    {
+        "label": "screen",
+        "kind": 5,
+        "importPath": "22-Pong Game.main",
+        "description": "22-Pong Game.main",
+        "peekOfCode": "screen = Screen()\nscreen.bgcolor(\"red\")\nscreen.setup(width=800, height=600)\nscreen.title(\"Pong Game\")\n# Fix that animation\nscreen.tracer(0)\n#  Paddle Shape\nr_paddle = Paddle((350, 0))\nl_paddle = Paddle((-350, 0))\n#  Ball shape ",
+        "detail": "22-Pong Game.main",
+        "documentation": {}
+    },
+    {
+        "label": "r_paddle",
+        "kind": 5,
+        "importPath": "22-Pong Game.main",
+        "description": "22-Pong Game.main",
+        "peekOfCode": "r_paddle = Paddle((350, 0))\nl_paddle = Paddle((-350, 0))\n#  Ball shape \nball = Ball()\nscreen.listen()\n# Control the Right Paddle\nscreen.onkey(r_paddle.go_up, \"a\")\nscreen.onkey(r_paddle.go_down, \"z\")\n# Control the left Paddle\nscreen.onkey(l_paddle.go_up, \"d\")",
+        "detail": "22-Pong Game.main",
+        "documentation": {}
+    },
+    {
+        "label": "l_paddle",
+        "kind": 5,
+        "importPath": "22-Pong Game.main",
+        "description": "22-Pong Game.main",
+        "peekOfCode": "l_paddle = Paddle((-350, 0))\n#  Ball shape \nball = Ball()\nscreen.listen()\n# Control the Right Paddle\nscreen.onkey(r_paddle.go_up, \"a\")\nscreen.onkey(r_paddle.go_down, \"z\")\n# Control the left Paddle\nscreen.onkey(l_paddle.go_up, \"d\")\nscreen.onkey(l_paddle.go_down, \"s\")",
+        "detail": "22-Pong Game.main",
+        "documentation": {}
+    },
+    {
+        "label": "ball",
+        "kind": 5,
+        "importPath": "22-Pong Game.main",
+        "description": "22-Pong Game.main",
+        "peekOfCode": "ball = Ball()\nscreen.listen()\n# Control the Right Paddle\nscreen.onkey(r_paddle.go_up, \"a\")\nscreen.onkey(r_paddle.go_down, \"z\")\n# Control the left Paddle\nscreen.onkey(l_paddle.go_up, \"d\")\nscreen.onkey(l_paddle.go_down, \"s\")\nGame_is_on = True\nwhile Game_is_on :",
+        "detail": "22-Pong Game.main",
+        "documentation": {}
+    },
+    {
+        "label": "Game_is_on",
+        "kind": 5,
+        "importPath": "22-Pong Game.main",
+        "description": "22-Pong Game.main",
+        "peekOfCode": "Game_is_on = True\nwhile Game_is_on :\n    time.sleep(0.1)\n    screen.update()\n    ball.move()\n    #  Detect collision with Wall\n    if ball.ycor() > 280 or ball.ycor() < -280 :\n        ball.bounce_y()\n    # Detect collision with paddle\n    if ball.distance(r_paddle) < 50 and ball.xcor() > 320 or ball.distance(l_paddle) < 50 and ball.xcor() < -320 :",
+        "detail": "22-Pong Game.main",
+        "documentation": {}
+    },
+    {
+        "label": "Paddle",
+        "kind": 6,
+        "importPath": "22-Pong Game.paddle",
+        "description": "22-Pong Game.paddle",
+        "peekOfCode": "class Paddle(Turtle):\n    #  Attribute  Get Paramete called Position\n    def __init__(self, position) :\n        super().__init__()\n        # paddle Shape()\n        self = Turtle()\n        self.shape(\"square\")\n        self.color(\"white\")\n        self.shapesize(stretch_wid=5, stretch_len=1)\n        self.penup()",
+        "detail": "22-Pong Game.paddle",
+        "documentation": {}
+    },
+    {
+        "label": "Food",
+        "kind": 6,
+        "importPath": "23- File Detection.food",
+        "description": "23- File Detection.food",
+        "peekOfCode": "class Food(Turtle):\n    def __init__(self):\n        super().__init__()\n        self.shape(\"circle\")\n        self.penup()\n        self.shapesize(stretch_len=0.5, stretch_wid=0.5)\n        self.color(\"blue\")\n        self.speed(\"fastest\")\n        self.refresh()\n    def refresh(self):",
+        "detail": "23- File Detection.food",
+        "documentation": {}
+    },
+    {
+        "label": "screen",
+        "kind": 5,
+        "importPath": "23- File Detection.main",
+        "description": "23- File Detection.main",
+        "peekOfCode": "screen = Screen()\nscreen.setup(width=600, height=600)\nscreen.bgcolor(\"black\")\nscreen.title(\"My Snake Game\")\nscreen.tracer(0)\nsnake = Snake()\nfood = Food()\nscoreboard = Scoreboard()\nscreen.listen()\nscreen.onkey(snake.up, \"Up\")",
+        "detail": "23- File Detection.main",
+        "documentation": {}
+    },
+    {
+        "label": "snake",
+        "kind": 5,
+        "importPath": "23- File Detection.main",
+        "description": "23- File Detection.main",
+        "peekOfCode": "snake = Snake()\nfood = Food()\nscoreboard = Scoreboard()\nscreen.listen()\nscreen.onkey(snake.up, \"Up\")\nscreen.onkey(snake.down, \"Down\")\nscreen.onkey(snake.left, \"Left\")\nscreen.onkey(snake.right, \"Right\")\ngame_is_on = True\nwhile game_is_on:",
+        "detail": "23- File Detection.main",
+        "documentation": {}
+    },
+    {
+        "label": "food",
+        "kind": 5,
+        "importPath": "23- File Detection.main",
+        "description": "23- File Detection.main",
+        "peekOfCode": "food = Food()\nscoreboard = Scoreboard()\nscreen.listen()\nscreen.onkey(snake.up, \"Up\")\nscreen.onkey(snake.down, \"Down\")\nscreen.onkey(snake.left, \"Left\")\nscreen.onkey(snake.right, \"Right\")\ngame_is_on = True\nwhile game_is_on:\n    screen.update()",
+        "detail": "23- File Detection.main",
+        "documentation": {}
+    },
+    {
+        "label": "scoreboard",
+        "kind": 5,
+        "importPath": "23- File Detection.main",
+        "description": "23- File Detection.main",
+        "peekOfCode": "scoreboard = Scoreboard()\nscreen.listen()\nscreen.onkey(snake.up, \"Up\")\nscreen.onkey(snake.down, \"Down\")\nscreen.onkey(snake.left, \"Left\")\nscreen.onkey(snake.right, \"Right\")\ngame_is_on = True\nwhile game_is_on:\n    screen.update()\n    time.sleep(0.1)",
+        "detail": "23- File Detection.main",
+        "documentation": {}
+    },
+    {
+        "label": "game_is_on",
+        "kind": 5,
+        "importPath": "23- File Detection.main",
+        "description": "23- File Detection.main",
+        "peekOfCode": "game_is_on = True\nwhile game_is_on:\n    screen.update()\n    time.sleep(0.1)\n    snake.move()\n    #Detect collision with food.\n    if snake.head.distance(food) < 15:\n        food.refresh()\n        snake.extend()\n        scoreboard.increase_score()",
+        "detail": "23- File Detection.main",
+        "documentation": {}
+    },
+    {
+        "label": "Scoreboard",
+        "kind": 6,
+        "importPath": "23- File Detection.scoreboard",
+        "description": "23- File Detection.scoreboard",
+        "peekOfCode": "class Scoreboard(Turtle):\n    def __init__(self):\n        super().__init__()\n        self.score = 0\n        self.heigh_score = 0\n        self.color(\"white\")\n        self.penup()\n        self.goto(0, 270)\n        self.hideturtle()\n        self.update_scoreboard()",
+        "detail": "23- File Detection.scoreboard",
+        "documentation": {}
+    },
+    {
+        "label": "ALIGNMENT",
+        "kind": 5,
+        "importPath": "23- File Detection.scoreboard",
+        "description": "23- File Detection.scoreboard",
+        "peekOfCode": "ALIGNMENT = \"center\"\nFONT = (\"Courier\", 24, \"normal\")\nclass Scoreboard(Turtle):\n    def __init__(self):\n        super().__init__()\n        self.score = 0\n        self.heigh_score = 0\n        self.color(\"white\")\n        self.penup()\n        self.goto(0, 270)",
+        "detail": "23- File Detection.scoreboard",
+        "documentation": {}
+    },
+    {
+        "label": "FONT",
+        "kind": 5,
+        "importPath": "23- File Detection.scoreboard",
+        "description": "23- File Detection.scoreboard",
+        "peekOfCode": "FONT = (\"Courier\", 24, \"normal\")\nclass Scoreboard(Turtle):\n    def __init__(self):\n        super().__init__()\n        self.score = 0\n        self.heigh_score = 0\n        self.color(\"white\")\n        self.penup()\n        self.goto(0, 270)\n        self.hideturtle()",
+        "detail": "23- File Detection.scoreboard",
+        "documentation": {}
+    },
+    {
+        "label": "Snake",
+        "kind": 6,
+        "importPath": "23- File Detection.snake",
+        "description": "23- File Detection.snake",
+        "peekOfCode": "class Snake:\n    def __init__(self):\n        self.segments = []\n        self.create_snake()\n        self.head = self.segments[0]\n    def create_snake(self):\n        for position in STARTING_POSITIONS:\n            self.add_segment(position)\n    def add_segment(self, position):\n        new_segment = Turtle(\"square\")",
+        "detail": "23- File Detection.snake",
+        "documentation": {}
+    },
+    {
+        "label": "STARTING_POSITIONS",
+        "kind": 5,
+        "importPath": "23- File Detection.snake",
+        "description": "23- File Detection.snake",
+        "peekOfCode": "STARTING_POSITIONS = [(0, 0), (-20, 0), (-40, 0)]\nMOVE_DISTANCE = 20\nUP = 90\nDOWN = 270\nLEFT = 180\nRIGHT = 0\nclass Snake:\n    def __init__(self):\n        self.segments = []\n        self.create_snake()",
+        "detail": "23- File Detection.snake",
+        "documentation": {}
+    },
+    {
+        "label": "MOVE_DISTANCE",
+        "kind": 5,
+        "importPath": "23- File Detection.snake",
+        "description": "23- File Detection.snake",
+        "peekOfCode": "MOVE_DISTANCE = 20\nUP = 90\nDOWN = 270\nLEFT = 180\nRIGHT = 0\nclass Snake:\n    def __init__(self):\n        self.segments = []\n        self.create_snake()\n        self.head = self.segments[0]",
+        "detail": "23- File Detection.snake",
+        "documentation": {}
+    },
+    {
+        "label": "UP",
+        "kind": 5,
+        "importPath": "23- File Detection.snake",
+        "description": "23- File Detection.snake",
+        "peekOfCode": "UP = 90\nDOWN = 270\nLEFT = 180\nRIGHT = 0\nclass Snake:\n    def __init__(self):\n        self.segments = []\n        self.create_snake()\n        self.head = self.segments[0]\n    def create_snake(self):",
+        "detail": "23- File Detection.snake",
+        "documentation": {}
+    },
+    {
+        "label": "DOWN",
+        "kind": 5,
+        "importPath": "23- File Detection.snake",
+        "description": "23- File Detection.snake",
+        "peekOfCode": "DOWN = 270\nLEFT = 180\nRIGHT = 0\nclass Snake:\n    def __init__(self):\n        self.segments = []\n        self.create_snake()\n        self.head = self.segments[0]\n    def create_snake(self):\n        for position in STARTING_POSITIONS:",
+        "detail": "23- File Detection.snake",
+        "documentation": {}
+    },
+    {
+        "label": "LEFT",
+        "kind": 5,
+        "importPath": "23- File Detection.snake",
+        "description": "23- File Detection.snake",
+        "peekOfCode": "LEFT = 180\nRIGHT = 0\nclass Snake:\n    def __init__(self):\n        self.segments = []\n        self.create_snake()\n        self.head = self.segments[0]\n    def create_snake(self):\n        for position in STARTING_POSITIONS:\n            self.add_segment(position)",
+        "detail": "23- File Detection.snake",
+        "documentation": {}
+    },
+    {
+        "label": "RIGHT",
+        "kind": 5,
+        "importPath": "23- File Detection.snake",
+        "description": "23- File Detection.snake",
+        "peekOfCode": "RIGHT = 0\nclass Snake:\n    def __init__(self):\n        self.segments = []\n        self.create_snake()\n        self.head = self.segments[0]\n    def create_snake(self):\n        for position in STARTING_POSITIONS:\n            self.add_segment(position)\n    def add_segment(self, position):",
+        "detail": "23- File Detection.snake",
+        "documentation": {}
+    },
+    {
+        "label": "question_data",
+        "kind": 5,
+        "importPath": "Quiz_App.data",
+        "description": "Quiz_App.data",
+        "peekOfCode": "question_data = [\n{\"text\": \"A slug's blood is green.\", \"answer\": \"True\"},\n{\"text\": \"The loudest animal is the African Elephant.\", \"answer\": \"False\"},\n{\"text\": \"Approximately one quarter of human bones are in the feet.\", \"answer\": \"True\"},\n{\"text\": \"The total surface area of a human lungs is the size of a football pitch.\", \"answer\": \"True\"},\n{\"text\": \"In West Virginia, USA, if you accidentally hit an animal with your car, you are free to take it home to eat.\", \"answer\": \"True\"},\n{\"text\": \"In London, UK, if you happen to die in the House of Parliament, you are entitled to a state funeral.\", \"answer\": \"False\"},\n{\"text\": \"It is illegal to pee in the Ocean in Portugal.\", \"answer\": \"True\"},\n{\"text\": \"You can lead a cow down stairs but not up stairs.\", \"answer\": \"False\"},\n{\"text\": \"Google was originally called 'Backrub'.\", \"answer\": \"True\"},",
+        "detail": "Quiz_App.data",
+        "documentation": {}
+    }
+]
